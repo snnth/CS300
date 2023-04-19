@@ -1,2 +1,2 @@
-# CS300
- All projects
+# 1.5 Projects
+All projects from 1.5

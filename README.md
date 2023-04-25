@@ -1,6 +1,5 @@
 Projects 1.5
 ============
-
 This is a repository of all my 1.5 projects.
 
 List
